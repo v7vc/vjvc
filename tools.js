@@ -3,7 +3,7 @@
 
 const S = {
   back: ['Back', 'بازگشت'],
-  title: ["vjvc's Tools", 'ابزارهای آلوی'],
+  title: ["vjvc's Tools", 'ابزارهای vjvc'],
   sub: ['Small tools that run entirely in your browser. No uploads, no accounts, no ads.', 'ابزارهای کوچیکی که کامل توی مرورگر خودت اجرا میشن. بدون آپلود، بدون اکانت، بدون تبلیغ.'],
   search: ['Search tools…', 'جستجوی ابزار…'],
   private: ['Everything runs on your device. Your files and text are never sent anywhere.', 'همه‌چیز روی دستگاه خودت اجرا میشه. فایل‌ها و متن‌هات هیچ‌جا فرستاده نمیشن.'],
