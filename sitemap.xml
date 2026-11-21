@@ -1,39 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://v7vc.github.io/site/</loc>
+    <loc>https://vjvc.vercel.app/</loc>
   </url>
   <url>
-    <loc>https://v7vc.github.io/site/freelance</loc>
+    <loc>https://vjvc.vercel.app/freelance</loc>
   </url>
   <url>
-    <loc>https://v7vc.github.io/site/arcade</loc>
+    <loc>https://vjvc.vercel.app/arcade</loc>
   </url>
   <url>
-    <loc>https://v7vc.github.io/site/ironline</loc>
+    <loc>https://vjvc.vercel.app/ironline</loc>
   </url>
   <url>
-    <loc>https://v7vc.github.io/site/tools</loc>
-  </url>
-  <url>
-    <loc>https://v7vc.github.io/site/papion</loc>
-  </url>
-  <url>
-    <loc>https://v7vc.github.io/site/varaq</loc>
-  </url>
-  <url>
-    <loc>https://v7vc.github.io/site/multitool</loc>
-  </url>
-  <url>
-    <loc>https://v7vc.github.io/site/mcportal</loc>
-  </url>
-  <url>
-    <loc>https://v7vc.github.io/site/rastnevis</loc>
-  </url>
-  <url>
-    <loc>https://v7vc.github.io/site/questlog</loc>
-  </url>
-  <url>
-    <loc>https://v7vc.github.io/site/ytdownloader</loc>
+    <loc>https://vjvc.vercel.app/tools</loc>
   </url>
 </urlset>
