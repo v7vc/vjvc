@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://v7vc.github.io/site/sitemap.xml
